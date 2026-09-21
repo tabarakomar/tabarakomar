@@ -1,33 +1,4 @@
-Profile Studio
-README.md builder
 
-Theme
-
-
-Identity
-About
-Stack
-Socials
-5
-Add-ons
-Dynamic add-ons
-Live widgets that auto-update on your real profile. They render from your GitHub username.
-
-GitHub stats card
-Stars, commits, PRs and issues at a glance.
-Top languages
-Most-used languages across your repositories.
-Contribution activity graph
-A themed line graph of your recent activity.
-Random dev quote
-A developer quote that refreshes on every visit.
-Back
-
-Finish
-Preview
-Markdown
-Copy
-Download
 <p align="center">
   <a href="https://github.com/tabarakomar">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e784b8&fontSize=54&height=90&width=666&text=Hi%2C%20I'm%20Tabarak%20%F0%9F%91%8B" alt="Hi, I&#39;m Tabarak 👋" />
